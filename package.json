@@ -1,0 +1,13 @@
+{
+  "name": "payda",
+  "version": "1.0.0",
+  "description": "مشروع أولي لموقع Payda",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests defined yet\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
